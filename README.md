@@ -17,6 +17,7 @@
 9. [Чат PHP разработчиков](https://t.me/phpdevconf) - (80 человек, 08.06.2017)
 10. [Группа Radiotech.kz, форум по электронике](https://t.me/joinchat/AAAAAAi_jbKtAEblVtrZyw) - (21 человек, 14.06.2017)
 11. [Сообщество разработчиков .NET](https://t.me/dotnetgroup) - (59 человек, 23.06.2017)
+12. [Группа для мобильных разработчиков](https://t.me/mobile_developers_kz) - (12 человек, 06.04.2017)
 
 # Каналы
 
