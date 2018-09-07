@@ -21,7 +21,7 @@
 13. [Коммюнити Ruby и Ruby On Rails](https://t.me/rubyata) - (249 человек, 29.10.2017)
 14. [Golang — сообщество программистов и почитателей языка в Казахстане](https://t.me/golang_kz) - (26 человек, 16.11.2017)
 15. [Golang — сообщество программистов и почитателей языка Go в Казахстане (без флуда от юзеров с девкз)](https://t.me/go_kz)
-15. [Старый добрый DS/ML.kz - Kazakhstan Data Science Community](https://t.me/ds_kz) - (780 человек, 01.05.2018)
+16. [Старый добрый DS/ML.kz - Kazakhstan Data Science Community](https://t.me/ds_kz) - (780 человек, 01.05.2018)
 
 # Казахстанские телеграм каналы
 
