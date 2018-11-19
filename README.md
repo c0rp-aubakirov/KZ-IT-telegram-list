@@ -32,7 +32,7 @@
 24. [Обсуждение видеонаблюдения в Казахстане. Опыт, законы, правила, модели и т.д.](https://t.me/cctvkz) - (19 человек, 21.10.2018)
 25. [MikroTikKZ. Все о mikrotik не только в КЗ](https://t.me/MikroTikKZ) - (78 человек, 21.10.2018)
 26. [Партизанский вайфай](https://t.me/WiFiPioneersKZ) - (46 человек, 21.10.2018)
-27. [StartUp Connect] (https://t.me/startup_connect) - (102 человек, 17.11.2018)
+27. [StartUp Connect](https://t.me/startup_connect) - (102 человек, 17.11.2018)
 
 
 # Казахстанские IT телеграм каналы
