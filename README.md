@@ -34,6 +34,7 @@
 26. [Партизанский вайфай](https://t.me/WiFiPioneersKZ) - (46 человек, 21.10.2018)
 27. [StartUp Connect](https://t.me/startup_connect) - (102 человек, 17.11.2018)
 28. [Almaty JUG, Алматинское сообщество java разработчиков](https://t.me/alajug) - (59 человек, 01.02.2019)
+29. [Karaganda JUG, Карагандинское сообщество java разработчиков](https://t.me/jugkaragandy) - (20+ человек)
 
 
 # Казахстанские IT телеграм каналы
