@@ -40,6 +40,7 @@
 
 # Казахстанские IT телеграм каналы
 
+0. [Deep learning, software engineering, Австрийская школа экономики. Канал Ерзата Дулат](https://t.me/codekz) (200+)
 1. [ITjobskz IT Вакансии](https://t.me/itjobskz) - (1000+)
 2. [Развернутое описание вакансий канала @ITjobskz](https://t.me/ITjobsKZ_Full) - (800+)
 3. [Вакансии для мобильных разработчиков](https://t.me/mobilejobskz) - (20+)
