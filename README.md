@@ -36,7 +36,7 @@
 28. [Almaty JUG, Алматинское сообщество java разработчиков](https://t.me/alajug) - (59 человек, 01.02.2019)
 29. [Karaganda JUG, Карагандинское сообщество java разработчиков](https://t.me/jugkaragandy) - (20+ человек)
 30. [Қазақстанның Julia қayымдастығы julialang.org](https://t.me/thetechkz)
-32. [DWH Community](https://t.me/dwhkz)
+32. [DWH Community Big Data Делимся обсуждаем задачи, проблемы в разработке](https://t.me/dwhkz)
 
 
 # Казахстанские IT телеграм каналы
