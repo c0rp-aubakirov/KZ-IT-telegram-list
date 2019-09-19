@@ -57,6 +57,7 @@
 13. [Новости IT и стартапов в одном предложении. Мы экономим ваше время!](https://t.me/thetechkz)
 14. [Официальный информационный канал HackNU 2019.](https://t.me/HackNUinfo) - (400+)
 15. [Chat to inform about the educational and career opportunities available to females in CS and to provide useful materials. Celebrate, inform and support women in computing!](https://t.me/nu_acm_w) - (100+)
+16. [Новости IT и стартапов в одном предложении.](https://t.me/thetechkz)
 
 # Сделано нашими IT-шниками - каналы, группы и боты 
 
