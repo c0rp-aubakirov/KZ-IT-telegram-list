@@ -35,7 +35,7 @@
 27. [StartUp Connect](https://t.me/startup_connect) - (102 человек, 17.11.2018)
 28. [Almaty JUG, Алматинское сообщество java разработчиков](https://t.me/alajug) - (59 человек, 01.02.2019)
 29. [Karaganda JUG, Карагандинское сообщество java разработчиков](https://t.me/jugkaragandy) - (20+ человек)
-30. [Қазақстанның Julia қayымдастығы julialang.org](https://t.me/thetechkz)
+30. [Чат для участников канала Одним предложением об IT и стартапах. ](https://t.me/thetechkzchat)
 32. [DWH Community Big Data Делимся обсуждаем задачи, проблемы в разработке](https://t.me/dwhkz)
 
 
@@ -57,7 +57,7 @@
 13. [Новости IT и стартапов в одном предложении. Мы экономим ваше время!](https://t.me/thetechkz)
 14. [Официальный информационный канал HackNU 2019.](https://t.me/HackNUinfo) - (400+)
 15. [Chat to inform about the educational and career opportunities available to females in CS and to provide useful materials. Celebrate, inform and support women in computing!](https://t.me/nu_acm_w) - (100+)
-16. [Новости IT и стартапов в одном предложении.](https://t.me/thetechkz)
+16. [Новости IT и стартапов в одном предложении.](https://t.me/thetechkz) - (6000+)
 
 # Сделано нашими IT-шниками - каналы, группы и боты 
 
