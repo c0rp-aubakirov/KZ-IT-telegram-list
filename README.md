@@ -30,12 +30,13 @@
 23. [Kazakhstan Linux Users Group. KZLUG юзер группа про линукс](https://t.me/kzlug) - (26 человек, 21.10.2018)
 24. [Обсуждение видеонаблюдения в Казахстане. Опыт, законы, правила, модели и т.д.](https://t.me/cctvkz) - (19 человек, 21.10.2018)
 25. [MikroTikKZ. Все о mikrotik не только в КЗ](https://t.me/MikroTikKZ) - (78 человек, 21.10.2018)
-26. [Партизанский вайфай](https://t.me/WiFiPioneersKZ) - (46 человек, 21.10.2018)
-27. [StartUp Connect](https://t.me/startup_connect) - (102 человек, 17.11.2018)
-28. [Almaty JUG, Алматинское сообщество java разработчиков](https://t.me/alajug) - (59 человек, 01.02.2019)
+26. [Партизанский вайфай](https://t.me/WiFiPioneersKZ) - (50+)
+27. [StartUp Connect](https://t.me/startup_connect) - (100+)
+28. [Almaty JUG, Алматинское сообщество java разработчиков](https://t.me/alajug) - (60+ человек)
 29. [Karaganda JUG, Карагандинское сообщество java разработчиков](https://t.me/jugkaragandy) - (20+ человек)
 30. [Чат для участников канала Одним предложением об IT и стартапах. ](https://t.me/thetechkzchat)
 32. [DWH Community Big Data Делимся обсуждаем задачи, проблемы в разработке](https://t.me/dwhkz)
+33. [Сообщество Web разработчиков Казахстана](https://t.me/web_dev_WD) (200+)
 
 
 # Казахстанские IT телеграм каналы
