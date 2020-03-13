@@ -39,7 +39,7 @@
 33. [Сообщество Web разработчиков Казахстана](https://t.me/web_dev_WD) (200+)
 
 
-# Казахстанские IT телеграм каналы
+# Казахстанские телеграм каналы
 
 0. [Deep learning, software engineering, Австрийская школа экономики. Канал Ерзата Дулат](https://t.me/codekz) (200+)
 1. [ITjobskz IT Вакансии](https://t.me/itjobskz) - (1000+)
@@ -58,6 +58,7 @@
 14. [Официальный информационный канал HackNU 2019.](https://t.me/HackNUinfo) - (400+)
 15. [Chat to inform about the educational and career opportunities available to females in CS and to provide useful materials. Celebrate, inform and support women in computing!](https://t.me/nu_acm_w) - (100+)
 16. [Новости IT и стартапов в одном предложении.](https://t.me/thetechkz) - (6000+)
+17. [Стажировки, гранты, стипендии / Научно-образовательный фонд им. академика Шахмардана Есенова / Алматы, Казахстан](https://t.me/yessenovfoundation) - (600+)
 
 # Сделано нашими IT-шниками - каналы, группы и боты 
 
