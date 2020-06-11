@@ -59,6 +59,7 @@
 15. [Chat to inform about the educational and career opportunities available to females in CS and to provide useful materials. Celebrate, inform and support women in computing!](https://t.me/nu_acm_w) - (100+)
 16. [Новости IT и стартапов в одном предложении.](https://t.me/thetechkz) - (6000+)
 17. [Стажировки, гранты, стипендии / Научно-образовательный фонд им. академика Шахмардана Есенова / Алматы, Казахстан](https://t.me/yessenovfoundation) - (600+)
+18. [bluescreen.kz - тщательно подобранные и классно поданные события про IT-технологии, игры, кибербезопасность, казахстанские и мировые тренды. Рассказывать о технологиях понятным языком — вот наше кредо.](https://t.me/bluescreenkz)
 
 # Сделано нашими IT-шниками - каналы, группы и боты 
 
