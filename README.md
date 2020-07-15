@@ -39,6 +39,7 @@
 33. [Сообщество Web разработчиков Казахстана](https://t.me/web_dev_WD)
 34. [Группа R0 в Казахстане r0crewKZ](https://t.me/r0crewKZ)
 35. [Разовые IT работы в казахстане](https://t.me/itmankz)
+36. [О визуализации открытых наборов данных, интерактивной управленческой отчетности (kpi dashboards), business intelligence.](https://t.me/datanomika) - (1000+)
 
 # Казахстанские телеграм каналы
 
