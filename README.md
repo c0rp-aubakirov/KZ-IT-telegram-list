@@ -41,6 +41,7 @@
 35. [Разовые IT работы в казахстане](https://t.me/itmankz)
 36. [О визуализации открытых наборов данных, интерактивной управленческой отчетности (kpi dashboards), business intelligence.](https://t.me/datanomika) - (1000+)
 37. [Сообщество для разработчиков на Flutter/Dart](https://t.me/dart_kz) — (200+)
+38. [Сообщество Rust-разработчиков](https://t.me/rustlang_kz) - (60+)
 
 # Казахстанские телеграм каналы
 
