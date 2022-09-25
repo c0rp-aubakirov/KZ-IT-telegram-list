@@ -17,6 +17,7 @@
 8. [О визуализации открытых наборов данных, интерактивной управленческой отчетности (kpi dashboards), business intelligence.](https://t.me/datanomika) - (1400+ человек, 12.05.2022)
 9. [BDK - Backend Developers of Kazakhstan](https://t.me/backenderskz) - (1300+ человек, 12.05.2022)
 10. [Astana JUG Cообщество java разработчиков](https://t.me/astanajug) - (1250+ человек, 12.05.2022)
+10. [iOS Developers community](https://t.me/iOSDevelopers_KZ) - (1000+, 25.09.2022)
 11. [Программисты Казахстана](https://t.me/devkz) - (900+ человек, 12.05.2022)
 12. [Сообщество GameDev](https://t.me/gamedevkz) - (900+ человек, 12.05.2022)
 13. [Golang — сообщество программистов и почитателей языка Go в Казахстане](https://t.me/go_kz) - (750+ человек, 12.05.2022)
